@@ -1,0 +1,19 @@
+{
+  "name": "eslint",
+  "version": "0.1.0",
+  "description": "configuring eslint in nodejs",
+  "main": "eslintConfig.js",
+  "type": "module",
+  "scripts": {
+    "start": "eslintConfig.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NW Miller",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
